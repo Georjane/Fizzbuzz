@@ -4,11 +4,11 @@ def my_fizzbuzz
   arr = (1..x).to_a
   game = arr.map do |i|
     if (i % 3).zero? && (i % 5).zero?
-      "fizzbuzz"
+      'fizzbuzz'
     elsif (i % 3).zero?
-      "fizz"
+      'fizz'
     elsif (i % 5).zero?
-      "buzz"
+      'buzz'
     else
       i
     end

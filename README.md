@@ -1,5 +1,7 @@
 # Fizzbuzz
-This is a program that takes a users input and prints the numbers from one to the number the user inputed. But for multiples of three prints “Fizz” instead of the number and for the multiples of five prints “Buzz”. For numbers which are multiples of both three and five prints “FizzBuzz”.
+> Fizz buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz".
+
+This program basically takes a users input and prints the numbers from one to the number the user inputed. But for multiples of three prints “Fizz” instead of the number and for the multiples of five prints “Buzz”. For numbers which are multiples of both three and five prints “FizzBuzz”.
 
 ## Built With
 
